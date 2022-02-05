@@ -1,3 +1,9 @@
+# React Blogs
+
+A react app for displaying, adding and deleting blogs served from a JSON server. The app is made by following the "Learn React" playlist by Youtube Channel "The Net Ninja".
+
+# Create React App Documentation
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
